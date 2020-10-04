@@ -1,4 +1,4 @@
-package ccspk.chapter3
+package ccspkt.chapter3
 
 abstract class Constraint<V, D>(variables: List<V>) where
 V: Any, D: Any {

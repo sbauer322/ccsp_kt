@@ -1,8 +1,6 @@
-import ccspk.chapter3.CSP
-import ccspk.chapter3.CSPE
-import ccspk.chapter3.QueensConstraint
-import ccspk.chapter3.QueensConstraintE
-import ccspk.chapter4.Graph
+import ccspkt.chapter3.CSP
+import ccspkt.chapter3.QueensConstraint
+import ccspkt.chapter4.Graph
 
 fun main() {
 //    chapter3Main()

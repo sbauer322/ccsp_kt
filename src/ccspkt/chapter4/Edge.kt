@@ -1,4 +1,4 @@
-package ccspk.chapter4
+package ccspkt.chapter4
 
 class Edge(val u: Int, val v: Int) {
 
