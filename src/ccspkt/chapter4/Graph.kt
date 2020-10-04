@@ -1,4 +1,4 @@
-package ccspk.chapter4
+package ccspkt.chapter4
 
 class Graph<V>(val vertices: MutableList<V> = mutableListOf()) {
     val edges: MutableList<MutableList<Edge>> = vertices.map {
